@@ -212,8 +212,8 @@ myproject/
 │ └── README.md
 | └── sample_credit_risk.csv
 ├── demo/
-├── reports/
-├── slides/
+├── reports/ BaoCao_ML LinhChi.pdf
+├── slides/BaoCao_ML_Chi.pdf
 ├── README.md
 ├── requirements.txt
 └── .gitignore
