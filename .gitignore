@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.joblib
+*.gz
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dataset lớn (KHÔNG up Kaggle data)
+data/*.csv
+data/*.xlsx
+data/*.parquet
+
+# Model đã train
+models/*.pkl
+models/*.pkl.gz
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
